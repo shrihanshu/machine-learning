@@ -5,8 +5,8 @@ This project is a **deep learning-based image classifier** that predicts whether
 ---
 
 ## 🚀 **Demo**
-👉 **Live App:** [Your Streamlit Deployment Link](#)  
-👉 **GitHub Repository:** [Your GitHub Repo](#)  
+👉 **Live App:** [https://machine-learning-gddffquxsgcekqf5mxzcir.streamlit.app/](#)  
+👉 **GitHub Repository:** [shrihanshu/machine-learning](#)  
 
 ---
 

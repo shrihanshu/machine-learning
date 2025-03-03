@@ -73,13 +73,19 @@ tensorflow
 
 ### **How It Works**
 1️⃣ User uploads an image
+---
 2️⃣ Image is read using OpenCV (cv2)
+---
 3️⃣ Preprocessing:
 
 Resize to 224x224 pixels
+---
 Convert to array format
+---
 Normalize using imagenet_utils.preprocess_input
+---
 4️⃣ VGG16 Model Predicts the Top 3 Labels
+---
 5️⃣ Results are displayed with confidence percentages
 ---
 

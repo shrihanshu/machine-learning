@@ -39,7 +39,7 @@ This project uses **VGG16**, a convolutional neural network (CNN) pre-trained on
 - **OpenCV (cv2)** (Image Processing)
 ## 🖥️ **Installation & Setup**  
 
-### **1️⃣ Clone the Repository**
+ ### **1️⃣ Clone the Repository**
 
  ### ** 2️⃣ CREATE A VIRTUAL ENVIRONMENT**    
 

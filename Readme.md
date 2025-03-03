@@ -103,6 +103,8 @@ Verify that requirements.txt is correctly formatted
 
 # **🔮 Future Improvements** #
 ✅ Add support for multiple image uploads
+---
 ✅ Improve UI with better styling
+---
 ✅ Deploy on AWS/GCP for scalability
 

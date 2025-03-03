@@ -24,37 +24,12 @@ This project uses **VGG16**, a convolutional neural network (CNN) pre-trained on
 ## 📂 **Project Structure**  
 **/soccer-ball-classifier │── app.py # Main Streamlit app │── requirements.txt # Dependencies │── README.md # Documentation**
 
----
-
-## 🛠️ **Tech Stack**
-- **Python 3.x**  
-- **Streamlit** (Web App Framework)  
-- **TensorFlow / Keras** (Pre-trained VGG16 Model)  
-- **NumPy** (Array Operations)  
-- **OpenCV (cv2)** (Image Processing)  
-
----
 
 
----
 
-## 🛠️ **Tech Stack**
-- **Python 3.x**  
-- **Streamlit** (Web App Framework)  
-- **TensorFlow / Keras** (Pre-trained VGG16 Model)  
-- **NumPy** (Array Operations)  
-- **OpenCV (cv2)** (Image Processing)  
+ 
 
----
 
-## 🛠️ **Tech Stack**
-- **Python 3.x**  
-- **Streamlit** (Web App Framework)  
-- **TensorFlow / Keras** (Pre-trained VGG16 Model)  
-- **NumPy** (Array Operations)  
-- **OpenCV (cv2)** (Image Processing)  
-
----
 
 ## 🛠️ **Tech Stack**
 - **Python 3.x**  
@@ -64,14 +39,9 @@ This project uses **VGG16**, a convolutional neural network (CNN) pre-trained on
 - **OpenCV (cv2)** (Image Processing)
 ## 🖥️ **Installation & Setup**  
 
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+### **1️⃣ Clone the Repository**
 
----
-
-### ** 2️⃣ CREATE A VIRTUAL ENVIRONMENT** ###
+ ### ** 2️⃣ CREATE A VIRTUAL ENVIRONMENT**    
 
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux

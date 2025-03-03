@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing.image import load_img
 model = VGG16(weights="imagenet")
 
 # Streamlit app title
-st.title("Soccer Ball Classifier with VGG16")
+st.title("Object Detection in Image")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "png", "jpeg"])
